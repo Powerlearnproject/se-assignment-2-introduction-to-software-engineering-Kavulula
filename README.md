@@ -128,12 +128,26 @@ Adaptive software maintenance- Refers to software maintenance that seeks to adap
 Perfective software maintenance-this is when software is maintained to provide the changes users want.
 Preventive Maintenance-refers to adaptations to software maintenance to prevent deteroriation as it adapts and improves.
 
-
 Ethical Considerations in Software Engineering:
 
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+Ethical Issues are such as;
+Algorithnic bias
+unethical data collection
+weak security
 
+Ethical Considerations for software engineering are such as;
+Transparency
+Fairness
+Privacy 
+Security
+Accountability
+
+Engineers can adhere to ethical practices by doing the following;
+Being honest and avoiding false advertisements
+being accountable
+be proactive, through assessing the technology under development to safeguard against future potential abuse.
 
 
 Submission Guidelines:
