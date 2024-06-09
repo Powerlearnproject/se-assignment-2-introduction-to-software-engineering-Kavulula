@@ -42,24 +42,100 @@ Since the Waterfall model follows a sequential process, predicting the projectâ€
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+
+Refers to the process of defining, documenting, and maintaining requirements in the engineering design process.
+It is a five sep process including
+Feasibility Study
+Requirements elicitation
+Requirements specification
+Requirements for verification and validation
+Requirements management
+Good requirements management helps clearly define project goals, avoid errors and meet expectations.
+
 Software Design Principles:
 
-Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+Explain the concept of modularity in software design.
+Modularity in computing and programming refers to dividing a system into separate modules or components. Each module handles a specific functionality and operates independently.
+
+How does it improve maintainability and scalability of software systems?
+By breaking down the software into independent modules, you can more easily adapt, extend, or replace parts of the system without affecting others.
+
 Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+
+Unit Testing is testing individual components to see if they work. Developers use tools like JUnit and PyTest for this. Integration Testing is testing combined components. Developers or specialized testers can do this with tools like TestNG and Apache Camel. System Testing is testing the entire system to see if it meets all the requirements. QA teams do this level of testing with tools like Selenium and LoadRunner. Acceptance Testing is the final test before the software goes live to see if it meets business requirements. End-users or customers do this with tools like Cucumber and FitNesse. Why Testing Testing ensures quality by giving high quality products. It finds bugs early, saves time and money. It reduces risk by preventing big failures. Testing ensures compliance to standards and regulations, improves user satisfaction and validates real world performance. In short, testing is for reliable software.
+
 Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+
+Version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done in the code. 
+The version control systems are impotant because they 
+reduce possibilities of errors and conflicts meanwhile project development through traceability to every small change
+Helps in recovery in case of any disaster or contingent situation
+For each different contributor to the project, a different working copy is maintained and not merged to the main file unless the working copy is validated.
+
+Examples of version control systems
+Git
+Mercurial
+AzureDevOps
+AWSVersion Comitt
+
+Features of Version Control Systems
+Branching
+Backup
+Collaboration
+tracking changes
+Productivity.
+
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 Software Maintenance:
 
+Role of a Software Project Manager
+ A project manager is in charge of the entire project. He/she creates a scope, budget and timeline of the completion of the project.
+ Software Project Manager
+
+A software project manager is responsible for getting software projects done on time, on budget and to quality.
+
+Key Tasks -
+
+Planning and Scheduling:
+
+Creating project plans and schedules.
+
+Team Leadership: Leading the team, assigning tasks and making sure everyone is on the same page.
+
+Stakeholder Communication: Keeping everyone informed - clients to team members and dealing with any issues that arise.
+
+Biggest Challenges -
+
+Scope Creep:
+
+Dealing with changes to the project scope and tasks -
+
+Time: Keeping to the schedule.
+
+Resources: Working with what you have.
+
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+
+Software Maintenance-is the process of changing, modifying, and updating software to keep up with customer needs.
+Corrective software maintenance- addresses the errors and faults within software applications that could impact various parts of your software, including the design, logic, and code.
+Adaptive software maintenance- Refers to software maintenance that seeks to adapt the software to the changing environmnet.
+Perfective software maintenance-this is when software is maintained to provide the changes users want.
+Preventive Maintenance-refers to adaptations to software maintenance to prevent deteroriation as it adapts and improves.
+
+
 Ethical Considerations in Software Engineering:
 
+
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+
+
+
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
