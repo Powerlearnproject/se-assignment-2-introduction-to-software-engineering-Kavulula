@@ -9,12 +9,36 @@ Questions:
 Define Software Engineering:
 
 What is software engineering, and how does it differ from traditional programming?
+Software engineering is an aspect of computer science dealing in design, development testing, implimentation and maintenance of computer software.
+
 Software Development Life Cycle (SDLC):
 
+Refers to a method of clearly defined software development criteria.
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
-Agile vs. Waterfall Models:
 
+Requirement analysis- this is when the unique problem a software is meant to solve is identified. Requires input from all involved stakeholders.
+Planning Phase- Where the resources, material and financial are determined for the deveelopment phase to begin.
+Design- this is where the software specs are turned in to a design specification.
+Build- Where the actual development takes place through programming 
+Code Test- the testing phase of the development begins and any errors or amendments to the software are carried out.
+Deplyoment- Actual user roll-out and use in a production environment.
+
+
+Agile vs. Waterfall Models:
+These are two types of project management work flows
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+Agile Model-Agile
+ This model in software development refers to methodologies centered around the idea of iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams.
+
+Waterfall methodology
+is a step-by-step approach to software development that focuses on sequentially progressing through each stage and phase of the development process.  Aptly named so because each phase of the project cascades in to the next.
+The key differences in the two models are;
+Agile is best suited for projects that require flexibility and constant changes and where customer feedback is critical such as in software development.
+The Agile model highlights the collaboration between the development team and the stakeholders. This collaboration helps to ensure that the project meets the needs of the stakeholders and that everyone is on the same page.
+Waterfall is ideal for projects with well-defined stages and straightforward, linear requirements.
+Since the Waterfall model follows a sequential process, predicting the project’s outcome is easier. This makes estimating the time and resources required for each project phase easier.
+
+
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
